@@ -1,5 +1,5 @@
 {
-  "name": "dolano-api-backend",
+  "name": "snippet-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://harismawan@bitbucket.org/dolanotours/dolano-api-backend.git"
+    "url": "url"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/dolanotours/dolano-api-backend#readme",
+  "homepage": "url",
   "devDependencies": {
     "nodemon": "^1.12.1"
   },
