@@ -27,10 +27,10 @@ app.locals = {
         'message': String,
         'data': Object
     },
-    secret: '9d0758740ae4eb192278882f1300a33dbc1dfbea',
+    secret: 'secret-key',
     auth: {
-        host: 'https://api.gw.dolano.id/v1/',
-        key: 'b1gvsgXFwoYuVq0DYc2k13PuhrBABejc'
+        host: 'host-url',
+        key: 'key'
     },
 };
 
